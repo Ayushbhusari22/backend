@@ -6,7 +6,7 @@ import json
 import pandas as pd
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://resplendent-macaron-7061c7.netlify.app"])
 
 # Initialize model
 model = HeatwavePredictionModel()
