@@ -1,0 +1,10 @@
+flask
+flask-cors
+pandas
+numpy
+requests
+matplotlib
+seaborn
+scikit-learn
+geopy
+pickle-mixin

@@ -1,0 +1,262 @@
+city,threshold_temp
+# India (Expanded with official IMD data)
+Mumbai,37
+Delhi,45
+Chennai,40
+Bangalore,37
+Hyderabad,42
+Pune,38
+Ahmedabad,45
+Jaipur,44
+Surat,42
+Kanpur,44
+Nagpur,47
+Visakhapatnam,38
+Indore,42
+Thane,37
+Bhopal,42
+Patna,42
+Vadodara,42
+Ghaziabad,44
+Ludhiana,43
+Agra,44
+Nashik,38
+Faridabad,44
+Meerut,44
+Rajkot,43
+Kalyan-Dombivli,37
+Vasai-Virar,37
+Varanasi,43
+Srinagar,30
+Aurangabad,42
+Dhanbad,42
+Amritsar,43
+Navi Mumbai,37
+Allahabad (Prayagraj),43
+Ranchi,38
+Howrah,38
+Gwalior,44
+Jabalpur,42
+Coimbatore,38
+Vijayawada,40
+Jodhpur,46
+Madurai,39
+Raipur,42
+Kota,45
+Guwahati,36
+Chandigarh,43
+Thiruvananthapuram,35
+Solapur,42
+Tiruchirappalli,39
+Bareilly,43
+Moradabad,43
+# Additional Tier-2/3 Indian Cities
+Bhilai,42
+Bhavnagar,42
+Jamnagar,42
+Gorakhpur,43
+Bikaner,46
+Warangal,40
+Cuttack,38
+Kochi,35
+Kozhikode,36
+Bhilwara,44
+Gaya,42
+Jalgaon,42
+Udaipur,42
+Mathura,44
+Bellary,40
+Mangalore,36
+Belgaum,38
+Tirunelveli,38
+Gulbarga,42
+Malegaon,42
+Durgapur,38
+Ajmer,44
+Ulhasnagar,37
+Akola,44
+Bhagalpur,42
+Latur,42
+Hubli-Dharwad,38
+Karnal,43
+Bihar Sharif,42
+Panipat,43
+Darbhanga,42
+Bathinda,44
+Hazaribagh,38
+Anantapur,42
+Eluru,38
+Kirari Suleman Nagar,45
+Purnia,42
+Satna,42
+Mau,43
+Sonipat,43
+Firozabad,44
+Bijapur,42
+Sangli,38
+Gopalpur,38
+Tumkur,38
+Aligarh,44
+Kulti,38
+Kharagpur,38
+Rampur,43
+Shivamogga,38
+Junagadh,42
+Noida,44
+Gandhinagar,45
+Kollam,36
+Avadi,40
+Kadapa,40
+Kamarhati,38
+Bilaspur,42
+##############
+Shahjahanpur,43
+Bokaro Steel City,42
+South Dumdum,38
+Bally,38
+Panihati,38
+Dehri,42
+Ichalkaranji,38
+Burhanpur,42
+Bhind,44
+Proddatur,40
+Chittoor,40
+Hospet,40
+Bharatpur,44
+Sikar,44
+Hardwar,43
+Bhiwani,44
+Ambala,43
+Maunath Bhanjan,43
+Bahraich,43
+Phusro,42
+Vellore,38
+Khammam,40
+Raichur,42
+Chandrapur,42
+Khandwa,42
+Yamunanagar,43
+Baranagar,38
+Hoshiarpur,43
+Sambalpur,38
+Sasaram,42
+Danapur,42
+Serampore,38
+Sultanpur,43
+Guntakal,40
+Unnao,43
+Hindupur,40
+Nadiad,42
+Tenali,38
+Proddutur,40
+Saharsa,42
+Mirzapur,43
+Bhimavaram,38
+Karaikudi,38
+Jehanabad,42
+Motihari,42
+Dibrugarh,36
+Jorhat,36
+Hajipur,42
+Adoni,40
+Katihar,42
+Pathankot,43
+Kishanganj,42
+Karauli,44
+Mandsaur,42
+Chhindwara,42
+Khanna,43
+Buxar,42
+Baidyabati,38
+Malda,38
+Siwan,42
+Bhusawal,42
+Orai,44
+Bahadurgarh,43
+Khora,44
+Chittaurgarh,42
+Modinagar,43
+Gudivada,38
+Basirhat,38
+Jalna,42
+Moga,43
+Bhatpara,38
+Fatehpur,44
+Mandya,38
+Haldia,38
+Hazaribagh,38
+# Middle East
+Riyadh,45
+Doha,45
+Jeddah,42
+Tehran,40
+Istanbul,35
+
+# Southeast Asia
+Bangkok,38
+Jakarta,36
+Kuala Lumpur,35
+Manila,36
+Hanoi,37
+
+# European Cities
+Amsterdam,30
+Brussels,30
+Vienna,30
+Prague,30
+Stockholm,28
+Copenhagen,28
+Oslo,28
+Helsinki,26
+Zurich,30
+Milan,35
+
+# North America
+Montreal,30
+Calgary,28
+Ottawa,31
+Washington DC,35
+Boston,32
+San Francisco,30
+Seattle,32
+Miami,34
+Atlanta,36
+Dallas,40
+
+# South America
+Sao Paulo,33
+Rio de Janeiro,36
+Buenos Aires,35
+Lima,30
+Bogota,24
+Santiago,35
+Caracas,34
+
+# African Cities
+Cairo,38
+Lagos,36
+Nairobi,28
+Johannesburg,32
+Cape Town,34
+Casablanca,38
+Addis Ababa,26
+
+# Additional Asian Cities
+Seoul,33
+Osaka,35
+Kyoto,36
+Hong Kong,34
+Taipei,35
+Kolkata,38
+Dhaka,36
+Karachi,45
+Lahore,46
+Islamabad,42
+
+# Oceania
+Auckland,28
+Brisbane,37
+Perth,40
+Adelaide,38
+Canberra,35
+
